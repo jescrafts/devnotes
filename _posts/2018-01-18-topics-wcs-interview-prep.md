@@ -8,10 +8,10 @@ This series is an attempt to digitize my battered old notebook for Websphere Com
 First, here is the list of topics, which hopefully will be covered in a blogpost each.
 
 - WCS - General Information 
-  -   Business Models
-  -   Subsystems
-  -   WCS Architecture
-  -   Latest information on versions etc
+  -   	Business Models
+  -   	Subsystems
+  -   	WCS Architecture
+  -   	Latest information on versions etc
   
 - Struts & Tiles, Device Adapter
 
@@ -43,35 +43,31 @@ First, here is the list of topics, which hopefully will be covered in a blogpost
   -     Order Tables
   -     Calculation Framework - tables & high level
   
-  
 -  Payments Subsystem
-    -  	Payment Tables
-    -   Architecture
-    -   Configuration files
-    -   Payment Events
-  
-  
+  - 	Payment Tables
+  - 	Architecture & How it works 
+  -     Configuration files
+  -     Calculation Framework - tables & high level
+  	
 -  WCS - Error Handling
-    -  	Exceptions in WCS
-    -   Error handling in JSP
-  
+  -     Exceptions in WCS
+  -     Error handling in WCS
   
 -  Caching, Access control in WCS
-    -  	cachespec
-    -   types of caching
-    -   access control - types of, how to
+  -     Exceptions in WCS
+  -     Error handling in WCS
   
 -  Dataload in WCS
 
 -  Basic Java questions 
-    -  	@include vs jsp:include vs c:import
-    -   Types of Collections
-    -   Basic String & data type questions (SCJP style)
-    -   Object Oriented Programming questions
+-       @include vs jsp:include vs c:import
+-       Types of Collections
+-       Basic String & data type questions (SCJP style)
+-       Object Oriented Programming questions
   
 -  Promotions
-    -  	Types of Promotions in WCS
-    -   Tables
-    -   How is promocode uploaded in WCS, where is it stored etc.
-    -   Promocode is associated with Order - How?
-    -   Promotion Engine & How it works, how can it be customized etc
+-       Types of Promotions in WCS
+-       Tables
+-       How is promocode uploaded in WCS, where is it stored etc.
+-       Promocode is associated with Order - How?
+-       Promotion Engine & How it works, how can it be customized etc
