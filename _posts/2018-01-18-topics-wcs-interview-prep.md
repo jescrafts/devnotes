@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Websphere Commerce Server Interview Prep - List of Topics
 
