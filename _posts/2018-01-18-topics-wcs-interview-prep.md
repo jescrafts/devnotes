@@ -37,11 +37,13 @@ First, here is the list of topics, which hopefully will be covered in a blogpost
   - 	Facets - What are they? How they are created
   -   	SOLR basics
   
+  
 - Order Managment Subsystems
   - 	Order Status
   -     Controller Commands
   -     Order Tables
   -     Calculation Framework - tables & high level
+  
   
 -  Payments Subsystem
     -  	Payment Tables
@@ -49,9 +51,11 @@ First, here is the list of topics, which hopefully will be covered in a blogpost
     -   Configuration files
     -   Payment Events
   
+  
 -  WCS - Error Handling
     -  	Exceptions in WCS
     -   Error handling in JSP
+  
   
 -  Caching, Access control in WCS
     -  	cachespec
