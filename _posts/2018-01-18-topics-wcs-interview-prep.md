@@ -37,7 +37,6 @@ First, here is the list of topics, which hopefully will be covered in a blogpost
   - 	Facets - What are they? How they are created
   -   	SOLR basics
   
-  
 - Order Managment Subsystems
   - 	Order Status
   -     Controller Commands
