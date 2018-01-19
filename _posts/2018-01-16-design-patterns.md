@@ -1,4 +1,6 @@
 ---
+layout: post
+title: Design Patterns Notes
 published: true
 ---
 ## Design Patterns Notes
